@@ -13,5 +13,5 @@ so you should download it to view it properly.
 
 ## Historical Accounts
 
-A series of [songs/poems](docs/songs/README.md) about Herro's journeys, told through his
+A series of [songs/poems](docs/songs/) about Herro's journeys, told through his
 own eyes. Certain events may be embellished to enhance the entertainment value.
