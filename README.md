@@ -8,8 +8,9 @@ The historical documentation and lifestyle of the elven bard Herro Keller V'llan
 level
 2. [Historical Accounts](#historical-accounts) - Set of songs (historical accounts) of
 Herro's journeys
-3. [Bardic Inspiration](#bardic-inspiration) - A sries of Bardic inspiration quotes
-4. [Vicious Mockery](#vicious-mockery) - A series of vicious mockery insults
+3. [Personal Notes](#personal-notes) - A series of notes taken of Herro's adventures
+4. [Bardic Inspiration](#bardic-inspiration) - A sries of Bardic inspiration quotes
+5. [Vicious Mockery](#vicious-mockery) - A series of vicious mockery insults
 
 
 ## Character Sheets
@@ -25,6 +26,12 @@ so you should download it to view it properly.
 A series of [songs/poems](https://github.com/prezschaefer/herro/blob/master/docs/songs/README.md)
 about Herro's journeys, told through his own eyes. Certain events may be embellished to
 enhance the entertainment value.
+
+
+## Personal Notes
+
+A series of [notes](https://github.com/prezschaefer/herro/blob/master/notes/README.md) taken by
+Herro during his adventures.
 
 
 ## Bardic Inspiration
