@@ -9,5 +9,13 @@ healing).
 
 | Name | Date | Recited |
 |:---- |:----:|:-------:|
-| [Jailhouse Break](jailhouse_break.md) | 2019/03/24 | No |
-| [Find the Kitchen](find_the_kitchen.md) | 2019/04/07 | No |
+| [Jailhouse Break](sessions/jailhouse_break.md) | 2019/03/24 | 2019/04/14 |
+| [Find the Kitchen](sessions/find_the_kitchen.md) | 2019/04/07 | No |
+| [Completing Our Escape](sessions/completing_our_escape.md) | 2019/04/14 | No |
+
+
+## Other Songs
+
+| Name | Date | Recited |
+|:---- |:----:|:-------:|
+| [Words of Warning](other/words_of_warning.md) | 2019/04/14 | No |
