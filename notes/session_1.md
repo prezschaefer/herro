@@ -1,4 +1,4 @@
-# Session One
+# Session 1
 
 ## Nations
 

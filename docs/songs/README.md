@@ -12,6 +12,7 @@ healing).
 | 0 | [Jailhouse Break](sessions/jailhouse_break.md) | 2019/03/24 | 2019/04/14 |
 | 1 | [Find the Kitchen](sessions/find_the_kitchen.md) | 2019/04/07 | No |
 | 2 | [Completing Our Escape](sessions/completing_our_escape.md) | 2019/04/14 | No |
+| 3 | [Ticket out of Paocinon](ticket_out_of_paocinon.md) | 2019/04/28 | No |
 
 
 ## Other Songs

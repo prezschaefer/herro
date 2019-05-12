@@ -1,4 +1,4 @@
-## Session Zero
+## Session 0
 
 lyrical slave or the eye
     - jailed for one year
