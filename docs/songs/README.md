@@ -14,6 +14,7 @@ healing).
 | 2 | [Completing Our Escape](sessions/completing_our_escape.md) | 2019/04/14 | No |
 | 3 | [Ticket out of Paocinon](sessions/ticket_out_of_paocinon.md) | 2019/04/28 | No |
 | 4 | [Last Call for Merish](sessions/last_call_for_merish.md) | 2019/05/12 | No |
+| 5 | [Robbing the Unknown Traveler](sessions/robbing_the_unknown_traveler.md) | 2019/05/19 | No |
 
 
 ## Other Songs
