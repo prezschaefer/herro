@@ -8,3 +8,4 @@ A series of personal notes taken by Herro Keller V'llan during his adventures.
 | [Session 1](session_1.md) | 2019/04/07 |
 | [Session 2](session_2.md) | 2019/04/14 |
 | [Session 3](session_3.md) | 2019/04/28 |
+| [Session 4](session_4.md) | 2019/05/12 |
