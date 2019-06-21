@@ -1,5 +1,7 @@
 ## Session 0
 
+2019/03/24
+
 lyrical slave or the eye
     - jailed for one year
     - rapper bard
