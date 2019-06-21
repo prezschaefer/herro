@@ -11,10 +11,11 @@ healing).
 |:--:|:---- |:----:|:-------:|
 | 0 | [Jailhouse Break](sessions/jailhouse_break.md) | 2019/03/24 | 2019/04/14 |
 | 1 | [Find the Kitchen](sessions/find_the_kitchen.md) | 2019/04/07 | 2019/05/17 |
-| 2 | [Completing Our Escape](sessions/completing_our_escape.md) | 2019/04/14 | No |
+| 2 | [Completing Our Escape](sessions/completing_our_escape.md) | 2019/04/14 | 2019/05/25 |
 | 3 | [Ticket out of Paocinon](sessions/ticket_out_of_paocinon.md) | 2019/04/28 | No |
 | 4 | [Last Call for Merish](sessions/last_call_for_merish.md) | 2019/05/12 | No |
 | 5 | [Robbing the Unknown Traveler](sessions/robbing_the_unknown_traveler.md) | 2019/05/19 | No |
+| 6 | [Making it to Merish](sessions/making_it_to_merish.md) | 2019/05/26 | No |
 
 
 ## Other Songs
