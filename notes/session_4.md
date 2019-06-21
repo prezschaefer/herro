@@ -79,3 +79,8 @@
   - Kag finds some gold and tinder kit and sword upon Salsa
   - Finds a pendant on Unego and grabs the hovering carpet
 - We all group back up in the wagon and continue on
+
+
+## Level Up
+
+Next long rest allows a level up to Level 4
