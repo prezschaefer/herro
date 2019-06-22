@@ -11,3 +11,4 @@ A series of personal notes taken by Herro Keller V'llan during his adventures.
 | [Session 4](session_4.md) | 2019/05/12 |
 | [Session 5](session_5.md) | 2019/05/19 |
 | [Session 6](session_6.md) | 2019/05/26 |
+| [Session 7](session_7.md) | 2019/06/02 |

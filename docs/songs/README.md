@@ -16,6 +16,7 @@ healing).
 | 4 | [Last Call for Merish](sessions/last_call_for_merish.md) | 2019/05/12 | No |
 | 5 | [Robbing the Unknown Traveler](sessions/robbing_the_unknown_traveler.md) | 2019/05/19 | No |
 | 6 | [Making it to Merish](sessions/making_it_to_merish.md) | 2019/05/26 | No |
+| 7 | [Announcing our Arrival to Merish](sessions/announcing_our_arrival_to_merish.md) | 2019/06/02 | No |
 
 
 ## Other Songs
