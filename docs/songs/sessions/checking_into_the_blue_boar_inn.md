@@ -14,11 +14,11 @@ the barmaid doesn't buy it even with everyting I bring.
 LS bursts into wondering what the hell we are doing,
 waiting for us at the wagon, the anger just brewing.
 Kag rushes out to the wagon to chase someone off,
-a Looky Lue runs away as all Kag does is simply scoff.
+a "Looky Lou" runs away as all Kag does is simply scoff.
 LS goes up to a room to rest while I bring Kag an ale,
 waiting at the wagon out front as Trevor gives us a hail.
 He takes us to a house to keep the wagon and horses secure,
-an place easy for us to access later he does assure.
+a place easy for us to access later he does assure.
 We walk back to the Inn to lay low and get a good rest,
 we have to stay hidden and be ready to be at our best.
 ```

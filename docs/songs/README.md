@@ -17,7 +17,7 @@ healing).
 | 5 | [Robbing the Unknown Traveler](sessions/robbing_the_unknown_traveler.md) | 2019/05/19 | No |
 | 6 | [Making it to Merish](sessions/making_it_to_merish.md) | 2019/05/26 | No |
 | 7 | [Announcing our Arrival to Merish](sessions/announcing_our_arrival_to_merish.md) | 2019/06/02 | No |
-| 8 | [Checking into the Blue Boar Inn](sessions/checking_into_the_blue_boar_inn.md) | 2019/06/16 | No |
+| 8 | [Checking into the Blue Boar Inn](sessions/checking_into_the_blue_boar_inn.md) | 2019/06/16 | 2019/06/21 |
 
 
 ## Other Songs
