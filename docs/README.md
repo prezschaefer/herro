@@ -10,6 +10,7 @@ so you should download it to view it properly.
 
 - [Level 3](https://github.com/prezschaefer/herro/blob/master/character_sheets/herro_keller_vllan_lvl_3.pdf)
 - [Level 4](https://github.com/prezschaefer/herro/blob/master/character_sheets/herro_keller_vllan_lvl_4.pdf)
+- [Level 5](https://github.com/prezschaefer/herro/blob/master/character_sheets/herro_keller_vllan_lvl_5.pdf)
 
 
 ## Historical Accounts
