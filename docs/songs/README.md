@@ -19,6 +19,7 @@ healing).
 | 7 | [Announcing our Arrival to Merish](sessions/announcing_our_arrival_to_merish.md) | 2019/06/02 | No |
 | 8 | [Checking into the Blue Boar Inn](sessions/checking_into_the_blue_boar_inn.md) | 2019/06/16 | 2019/06/21 |
 | 9 | [Drinking Contest](sessions/drinking_contest.md) | 2019/06/23 | No |
+| 10 | [Tremendous Tops with Marci](sessions/tremendous_tops_with_marci.md) | 2019/06/30 | No |
 
 
 ## Other Songs
@@ -27,3 +28,4 @@ healing).
 |:--:|:---- |:----:|:-------:|
 | 1 | [Words of Warning](other/words_of_warning.md) | 2019/04/14 | No |
 | 2 | [Have you Heard](other/have_you_heard.md) | 2019/06/23 | No |
+| 3 | [This is for Kag](other/this_is_for_kag.md) | 2019/06/30 | No |
