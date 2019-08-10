@@ -21,6 +21,7 @@ A series of personal notes taken by Herro Keller V'llan during his adventures.
 | [Session 11](sessions/session_11.md) | 2019/07/07 |
 | [Session 12](sessions/session_12.md) | 2019/07/14 |
 | [Session 13](sessions/session_13.md) | 2019/07/28 |
+| [Session 14](sessions/session_14.md) | 2019/08/04 |
 
 
 ## Other
