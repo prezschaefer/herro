@@ -23,7 +23,7 @@ healing).
 | 11 | [Day Seven Meeting](sessions/day_seven_meeting.md) | 2019/07/07 | No |
 | 12 | [Scouting the Merish City Square](sessions/scouting_the_merish_city_square.md) | 2019/07/14 | No |
 | 13 | [Quasmos Now Lies Dead](sessions/quasmos_now_lies_dead.md) | 2019/07/28 | No |
-| 14 | [Evermarch Assassins Attack](sessions/evermarch_assassins_attachk.md) | 2019/08/04 | No |
+| 14 | [Evermarch Assassins Attack](sessions/evermarch_assassins_attack.md) | 2019/08/04 | No |
 
 
 ## Other Songs
