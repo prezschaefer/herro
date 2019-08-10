@@ -72,7 +72,7 @@
 - Herro asks about a discount for providing entertainment, but is told the is already a bard, Radovan
   - Dressed very very nice, has been here for a year performing, warming up now
 - Kag pays the 25 gp for the room and stable board
-- LS intimidates a talk in the middle of the Inn until he gets them to leave
+- LS intimidates a table in the middle of the Inn until he gets them to leave
 - Party sits down and eats the leftover food
   - Hear discussion about Radovan's performances and the Blue Boar Inn fire
   - Another building caught fire next door before "The Extinguiser" was able to put it out

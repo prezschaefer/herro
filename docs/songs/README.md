@@ -21,6 +21,7 @@ healing).
 | 9 | [Drinking Contest](sessions/drinking_contest.md) | 2019/06/23 | No |
 | 10 | [Tremendous Tops with Marci](sessions/tremendous_tops_with_marci.md) | 2019/06/30 | No |
 | 11 | [Day Seven Meeting](sessions/day_seven_meeting.md) | 2019/07/07 | No |
+| 12 | [Scouting the Merish City Square](sessions/scouting_the_merish_city_square.md) | 2019/07/14 | No |
 
 
 ## Other Songs
@@ -31,3 +32,5 @@ healing).
 | 2 | [Have you Heard](other/have_you_heard.md) | 2019/06/23 | No |
 | 3 | [This is for Kag](other/this_is_for_kag.md) | 2019/06/30 | No |
 | 4 | [Poor Marci Disappeared](other/poor_marci_disappeared.md) | 2019/07/07 | 2019/07/07 |
+| 5 | [Before Awaking](other/before_awaking.md) | 2019/07/14 | No |
+| 6 | [Lift the Rock Roost Rock](other/lift_the_rock_roost_rock.md) | 2019/07/14 | 2019/07/14 |
