@@ -22,6 +22,7 @@ healing).
 | 10 | [Tremendous Tops with Marci](sessions/tremendous_tops_with_marci.md) | 2019/06/30 | No |
 | 11 | [Day Seven Meeting](sessions/day_seven_meeting.md) | 2019/07/07 | No |
 | 12 | [Scouting the Merish City Square](sessions/scouting_the_merish_city_square.md) | 2019/07/14 | No |
+| 13 | [Quasmos Now Lies Dead](sessions/quasmos_now_lies_dead.md) | 2019/07/28 | No |
 
 
 ## Other Songs
@@ -34,3 +35,4 @@ healing).
 | 4 | [Poor Marci Disappeared](other/poor_marci_disappeared.md) | 2019/07/07 | 2019/07/07 |
 | 5 | [Before Awaking](other/before_awaking.md) | 2019/07/14 | No |
 | 6 | [Lift the Rock Roost Rock](other/lift_the_rock_roost_rock.md) | 2019/07/14 | 2019/07/14 |
+| 7 | [Give that Rock Another Try](other/give_that_rock_another_try.md) | 2019/07/28 | 2019/07/28 |
