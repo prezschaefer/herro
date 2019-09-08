@@ -25,6 +25,7 @@ healing).
 | 13 | [Quasmos Now Lies Dead](sessions/quasmos_now_lies_dead.md) | 2019/07/28 | No |
 | 14 | [Evermarch Assassins Attack](sessions/evermarch_assassins_attack.md) | 2019/08/04 | No |
 | 15 | [Case of the Window Intruders](sessions/case_of_the_window_intruders.md) | 2019/08/18 | No |
+| 16 | [Acquiring a Bomb](sessions/acquiring_a_bomb.md) | 2019/08/25 | No |
 
 
 ## Other Songs
