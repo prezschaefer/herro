@@ -24,6 +24,7 @@ healing).
 | 12 | [Scouting the Merish City Square](sessions/scouting_the_merish_city_square.md) | 2019/07/14 | No |
 | 13 | [Quasmos Now Lies Dead](sessions/quasmos_now_lies_dead.md) | 2019/07/28 | No |
 | 14 | [Evermarch Assassins Attack](sessions/evermarch_assassins_attack.md) | 2019/08/04 | No |
+| 15 | [Case of the Window Intruders](sessions/case_of_the_window_intruders.md) | 2019/08/18 | No |
 
 
 ## Other Songs
@@ -37,3 +38,4 @@ healing).
 | 5 | [Before Awaking](other/before_awaking.md) | 2019/07/14 | No |
 | 6 | [Lift the Rock Roost Rock](other/lift_the_rock_roost_rock.md) | 2019/07/14 | 2019/07/14 |
 | 7 | [Give that Rock Another Try](other/give_that_rock_another_try.md) | 2019/07/28 | 2019/07/28 |
+| 8 | [Take Back Our City](other/take_back_our_city.md) | 2019/08/18 | No |
